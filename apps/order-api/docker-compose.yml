@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  api:
+    build: .
+    volumes:
+      - .:/code
+    environment:
+      - DB_HOST=mysql
+      - DB_USER=root
+      - DB_PASSWORD=password
+      - DB_NAME=vanoma_order_api_staging
+      - SERVER_PORT=8000
+      - SPRING_PROFILES_ACTIVE=development
+      - API_GOOGLE_MAPS_API_KEY=<FILL_IN_VALUE>
+      - VANOMA_AUTH_API_URL=<FILL_IN_VALUE>
+      - VANOMA_ORDER_API_URL=<FILL_IN_VALUE>
+      - VANOMA_PAYMENT_API_URL=<FILL_IN_VALUE>
+      - VANOMA_DELIVERY_API_URL=<FILL_IN_VALUE>
+      - VANOMA_WEB_APP_URL=<FILL_IN_VALUE>
+    command: mvn spring-boot:run # TODO: Figure out how to do auto-restart on file change. See https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html and https://docs.spring.io/spring-boot/docs/current/reference/html/using.html#using.devtools.restart
+    container_name: order-api
+
+networks:
+  default:
+    external:
+      name: vanoma-apis

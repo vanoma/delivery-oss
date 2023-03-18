@@ -1,0 +1,33 @@
+{
+  "appTitle": "Vanoma - Driver",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "driver": "Driver",
+  "assignments": "Assignments",
+  "account": "Account",
+  "languages": "Languages",
+  "theme": "Theme",
+  "chooseTheme": "Choose theme",
+  "systemDefault": "System default",
+  "light": "Light",
+  "dark": "Dark",
+  "done": "Done",
+  "changeProfilePicture":"Change profile picture",
+  "signOut": "Sign out",
+  "enterYourPhoneNumber": "Enter your phone number",
+  "phoneNumber": "Phone number",
+  "signUp": "Sign up",
+  "verifyYourPhoneNumberByEnteringThePinSentViaSMS": "Verify your phone number by entering the PIN sent via SMS",
+  "enterThePin": "Enter the PIN",
+  "verify": "Verify",
+  "finishSettingUpYourAccount": "Finish setting up your account",
+  "finish":"Finish",
+  "firstName": "First name",
+  "secondName": "Second name",
+  "enterAnotherPhoneNumber": "Enter another phone number",
+  "secondPhoneNumber": "Another phone number",
+  "createAPassword": "Create a password",
+  "password": "Password",
+  "confirmPassword": "confirm password"
+}

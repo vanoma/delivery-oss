@@ -1,0 +1,27 @@
+import { Button } from '@mui/material';
+import React, { useState } from 'react';
+import { useTranslation } from 'react-i18next';
+import AgentFormModal from './Agent/AgentFormModal';
+
+const AddAgentButton: React.FC = () => {
+    const { t } = useTranslation();
+    const [open, setOpen] = useState(false);
+
+    const handleOpen = (): void => {
+        setOpen(true);
+    };
+    const handleClose = (): void => {
+        setOpen(false);
+    };
+
+    return (
+        <>
+            <Button size="medium" onClick={() => handleOpen()}>
+                {t('account.agents.newAgent')}
+            </Button>
+            <AgentFormModal handleClose={handleClose} open={open} />
+        </>
+    );
+};
+
+export default AddAgentButton;

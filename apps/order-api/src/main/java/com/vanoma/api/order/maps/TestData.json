@@ -1,0 +1,3586 @@
+{
+  "KIGALI_MARRIOTT_HOTEL": [
+    {
+      "address_components": [
+        {
+          "long_name": "23W6+HR4",
+          "short_name": "23W6+HR4",
+          "types": [
+            "plus_code"
+          ]
+        },
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "23W6+HR4, Kigali, Rwanda",
+      "geometry": {
+        "location": {
+          "lat": -1.953614,
+          "lng": 30.062092
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": -1.952265019708498,
+            "lng": 30.0634409802915
+          },
+          "southwest": {
+            "lat": -1.954962980291502,
+            "lng": 30.0607430197085
+          }
+        }
+      },
+      "place_id": "ChIJx5pqQCmk3BkR_5MrQxRJr_U",
+      "types": [
+        "establishment",
+        "lodging",
+        "point_of_interest"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "32",
+          "short_name": "32",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "KN 3 Avenue",
+          "short_name": "KN 3 Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "32 KN 3 Ave, Kigali, Rwanda",
+      "geometry": {
+        "location": {
+          "lat": -1.9525172,
+          "lng": 30.0614492
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": -1.951168219708498,
+            "lng": 30.0627981802915
+          },
+          "southwest": {
+            "lat": -1.953866180291502,
+            "lng": 30.0601002197085
+          }
+        }
+      },
+      "place_id": "ChIJP6X2Jymk3BkReghJNHmiN0A",
+      "plus_code": {
+        "compound_code": "23W6+XH Kigali, Rwanda",
+        "global_code": "6GCG23W6+XH"
+      },
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "23W6+MR",
+          "short_name": "23W6+MR",
+          "types": [
+            "plus_code"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gasabo",
+          "short_name": "Gasabo",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "23W6+MR Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.95325,
+            "lng": 30.062125
+          },
+          "southwest": {
+            "lat": -1.953375,
+            "lng": 30.06199999999999
+          }
+        },
+        "location": {
+          "lat": -1.9533704,
+          "lng": 30.0620936
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": -1.951963519708498,
+            "lng": 30.0634114802915
+          },
+          "southwest": {
+            "lat": -1.954661480291501,
+            "lng": 30.0607135197085
+          }
+        }
+      },
+      "place_id": "GhIJTJcPUgFB_78ReUq9XeUPPkA",
+      "plus_code": {
+        "compound_code": "23W6+MR Kigali, Rwanda",
+        "global_code": "6GCG23W6+MR"
+      },
+      "types": [
+        "plus_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "KN 3 Avenue",
+          "short_name": "KN 3 Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "KN 3 Ave, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9532912,
+            "lng": 30.0619418
+          },
+          "southwest": {
+            "lat": -1.9546568,
+            "lng": 30.0617564
+          }
+        },
+        "location": {
+          "lat": -1.953974,
+          "lng": 30.0618491
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": -1.952625019708498,
+            "lng": 30.0631980802915
+          },
+          "southwest": {
+            "lat": -1.955322980291502,
+            "lng": 30.0605001197085
+          }
+        }
+      },
+      "place_id": "ChIJVy_0Qymk3BkR2vRrMjbIRn0",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kiyovu",
+          "short_name": "Kiyovu",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kiyovu, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.941269,
+            "lng": 30.073657
+          },
+          "southwest": {
+            "lat": -1.9692709,
+            "lng": 30.0545812
+          }
+        },
+        "location": {
+          "lat": -1.9524532,
+          "lng": 30.0636349
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.941269,
+            "lng": 30.073657
+          },
+          "southwest": {
+            "lat": -1.9692709,
+            "lng": 30.0545812
+          }
+        }
+      },
+      "place_id": "ChIJ7avVkSmk3BkRxV3UDfQS2co",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nyarugenge, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.941301,
+            "lng": 30.0736088
+          },
+          "southwest": {
+            "lat": -1.9726591,
+            "lng": 30.0545919
+          }
+        },
+        "location": {
+          "lat": -1.9567157,
+          "lng": 30.0636349
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.941301,
+            "lng": 30.0736088
+          },
+          "southwest": {
+            "lat": -1.9726591,
+            "lng": 30.0545919
+          }
+        }
+      },
+      "place_id": "ChIJC_zENimk3BkR-4ObxrxZaow",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nyarugenge",
+          "short_name": "Nyarugenge",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nyarugenge, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.8668001,
+            "lng": 30.086842
+          },
+          "southwest": {
+            "lat": -2.0760012,
+            "lng": 29.9773387
+          }
+        },
+        "location": {
+          "lat": -1.9850699,
+          "lng": 30.0318547
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.8668001,
+            "lng": 30.086842
+          },
+          "southwest": {
+            "lat": -2.0760012,
+            "lng": 29.9773387
+          }
+        }
+      },
+      "place_id": "ChIJ3aXXh6Wl3BkRtjhbfa13IHM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kigali City, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        },
+        "location": {
+          "lat": -1.9578755,
+          "lng": 30.112735
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        }
+      },
+      "place_id": "ChIJl-fYjiWk3BkRNAgf0zO1-zI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gasabo",
+          "short_name": "Gasabo",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        },
+        "location": {
+          "lat": -1.9440727,
+          "lng": 30.0618851
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        }
+      },
+      "place_id": "ChIJl-fYjiWk3BkRyAsdQaU2K_M",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.0473752,
+            "lng": 30.8991179
+          },
+          "southwest": {
+            "lat": -2.8399383,
+            "lng": 28.861754
+          }
+        },
+        "location": {
+          "lat": -1.940278,
+          "lng": 29.873888
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.0473752,
+            "lng": 30.8991179
+          },
+          "southwest": {
+            "lat": -2.8399383,
+            "lng": 28.861754
+          }
+        }
+      },
+      "place_id": "ChIJ40A451SWwhkRA6HMyyawkHQ",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "KIGALI_SUBURBAN_AREA": [
+    {
+      "address_components": [
+        {
+          "long_name": "KK 102 Street",
+          "short_name": "KK 102 St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Nyarugunga",
+          "short_name": "Nyarugunga",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "KK 102 St, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9891352,
+            "lng": 30.17691679999999
+          },
+          "southwest": {
+            "lat": -1.9894199,
+            "lng": 30.1762491
+          }
+        },
+        "location": {
+          "lat": -1.9892874,
+          "lng": 30.1765872
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": -1.987928569708498,
+            "lng": 30.17793193029149
+          },
+          "southwest": {
+            "lat": -1.990626530291502,
+            "lng": 30.17523396970849
+          }
+        }
+      },
+      "place_id": "ChIJyQbGcB5Y2xkR-oFfiGAt33s",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kamashashi",
+          "short_name": "Kamashashi",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nyarugunga",
+          "short_name": "Nyarugunga",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kamashashi, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9652044,
+            "lng": 30.1847192
+          },
+          "southwest": {
+            "lat": -1.9988888,
+            "lng": 30.157967
+          }
+        },
+        "location": {
+          "lat": -1.986435,
+          "lng": 30.1762494
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.9652044,
+            "lng": 30.1847192
+          },
+          "southwest": {
+            "lat": -1.9988888,
+            "lng": 30.157967
+          }
+        }
+      },
+      "place_id": "ChIJudhRExBY2xkRA-a7H1JGFJs",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nyarugunga",
+          "short_name": "Nyarugunga",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nyarugunga, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9528279,
+            "lng": 30.1850654
+          },
+          "southwest": {
+            "lat": -1.997176,
+            "lng": 30.1250249
+          }
+        },
+        "location": {
+          "lat": -1.9781447,
+          "lng": 30.1647036
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.9528279,
+            "lng": 30.1850654
+          },
+          "southwest": {
+            "lat": -1.997176,
+            "lng": 30.1250249
+          }
+        }
+      },
+      "place_id": "ChIJxYNQV3VY2xkRmjBfG8crMjY",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kicukiro, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9527428,
+            "lng": 30.2368223
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 30.0484651
+          }
+        },
+        "location": {
+          "lat": -2.0085703,
+          "lng": 30.1358346
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.9527428,
+            "lng": 30.2368223
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 30.0484651
+          }
+        }
+      },
+      "place_id": "ChIJUaP56mmo3BkRqzPnnqZ-zhs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kigali City, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        },
+        "location": {
+          "lat": -1.9578755,
+          "lng": 30.112735
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        }
+      },
+      "place_id": "ChIJl-fYjiWk3BkRNAgf0zO1-zI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gasabo",
+          "short_name": "Gasabo",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        },
+        "location": {
+          "lat": -1.9440727,
+          "lng": 30.0618851
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        }
+      },
+      "place_id": "ChIJl-fYjiWk3BkRyAsdQaU2K_M",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.0473752,
+            "lng": 30.8991179
+          },
+          "southwest": {
+            "lat": -2.8399383,
+            "lng": 28.861754
+          }
+        },
+        "location": {
+          "lat": -1.940278,
+          "lng": 29.873888
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.0473752,
+            "lng": 30.8991179
+          },
+          "southwest": {
+            "lat": -2.8399383,
+            "lng": 28.861754
+          }
+        }
+      },
+      "place_id": "ChIJ40A451SWwhkRA6HMyyawkHQ",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "256G+5Q",
+          "short_name": "256G+5Q",
+          "types": [
+            "plus_code"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gasabo",
+          "short_name": "Gasabo",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "256G+5Q Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9895,
+            "lng": 30.177
+          },
+          "southwest": {
+            "lat": -1.989625,
+            "lng": 30.176875
+          }
+        },
+        "location": {
+          "lat": -1.9895915,
+          "lng": 30.1769712
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": -1.988213519708498,
+            "lng": 30.1782864802915
+          },
+          "southwest": {
+            "lat": -1.990911480291502,
+            "lng": 30.1755885197085
+          }
+        }
+      },
+      "place_id": "GhIJsmSO5V3V_78ReFUM_E0tPkA",
+      "plus_code": {
+        "compound_code": "256G+5Q Kigali, Rwanda",
+        "global_code": "6GCG256G+5Q"
+      },
+      "types": [
+        "plus_code"
+      ]
+    }
+  ],
+  "UNNAMED_ROAD_KIGALI": [
+    {
+      "address_components": [
+        {
+          "long_name": "Unnamed Road",
+          "short_name": "Unnamed Road",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Gahanga",
+          "short_name": "Gahanga",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Unnamed Road, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -2.0454487,
+            "lng": 30.0915342
+          },
+          "southwest": {
+            "lat": -2.0490369,
+            "lng": 30.0843004
+          }
+        },
+        "location": {
+          "lat": -2.0480794,
+          "lng": 30.0885952
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": -2.0454487,
+            "lng": 30.0915342
+          },
+          "southwest": {
+            "lat": -2.0490369,
+            "lng": 30.0843004
+          }
+        }
+      },
+      "place_id": "ChIJJ_FT0kGp3BkRUs4llRnzJGM",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nunga",
+          "short_name": "Nunga",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gahanga",
+          "short_name": "Gahanga",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nunga, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -2.0217353,
+            "lng": 30.1024639
+          },
+          "southwest": {
+            "lat": -2.060265,
+            "lng": 30.0809097
+          }
+        },
+        "location": {
+          "lat": -2.0415883,
+          "lng": 30.086743
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -2.0217353,
+            "lng": 30.1024639
+          },
+          "southwest": {
+            "lat": -2.060265,
+            "lng": 30.0809097
+          }
+        }
+      },
+      "place_id": "ChIJaWcA-hWp3BkR_2sHtKQiOyw",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gahanga",
+          "short_name": "Gahanga",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gahanga, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9985467,
+            "lng": 30.1524496
+          },
+          "southwest": {
+            "lat": -2.0643821,
+            "lng": 30.0778718
+          }
+        },
+        "location": {
+          "lat": -2.0348851,
+          "lng": 30.1011836
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.9985467,
+            "lng": 30.1524496
+          },
+          "southwest": {
+            "lat": -2.0643821,
+            "lng": 30.0778718
+          }
+        }
+      },
+      "place_id": "ChIJjzV6sxep3BkRX130P4ZfwBM",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kicukiro, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9527428,
+            "lng": 30.2368223
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 30.0484651
+          }
+        },
+        "location": {
+          "lat": -2.0085703,
+          "lng": 30.1358346
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.9527428,
+            "lng": 30.2368223
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 30.0484651
+          }
+        }
+      },
+      "place_id": "ChIJUaP56mmo3BkRqzPnnqZ-zhs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kigali City, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        },
+        "location": {
+          "lat": -1.9578755,
+          "lng": 30.112735
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        }
+      },
+      "place_id": "ChIJl-fYjiWk3BkRNAgf0zO1-zI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gasabo",
+          "short_name": "Gasabo",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        },
+        "location": {
+          "lat": -1.9440727,
+          "lng": 30.0618851
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        }
+      },
+      "place_id": "ChIJl-fYjiWk3BkRyAsdQaU2K_M",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.0473752,
+            "lng": 30.8991179
+          },
+          "southwest": {
+            "lat": -2.8399383,
+            "lng": 28.861754
+          }
+        },
+        "location": {
+          "lat": -1.940278,
+          "lng": 29.873888
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.0473752,
+            "lng": 30.8991179
+          },
+          "southwest": {
+            "lat": -2.8399383,
+            "lng": 28.861754
+          }
+        }
+      },
+      "place_id": "ChIJ40A451SWwhkRA6HMyyawkHQ",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "X32Q+VF",
+          "short_name": "X32Q+VF",
+          "types": [
+            "plus_code"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gasabo",
+          "short_name": "Gasabo",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "X32Q+VF Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -2.04775,
+            "lng": 30.08875
+          },
+          "southwest": {
+            "lat": -2.047875,
+            "lng": 30.088625
+          }
+        },
+        "location": {
+          "lat": -2.0478522,
+          "lng": 30.0886795
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": -2.046463519708498,
+            "lng": 30.0900364802915
+          },
+          "southwest": {
+            "lat": -2.049161480291501,
+            "lng": 30.0873385197085
+          }
+        }
+      },
+      "place_id": "GhIJTVWQVQBiAMARXVMgs7MWPkA",
+      "plus_code": {
+        "compound_code": "X32Q+VF Kigali, Rwanda",
+        "global_code": "6G9GX32Q+VF"
+      },
+      "types": [
+        "plus_code"
+      ]
+    }
+  ],
+  "MASAKA_AREA_KIGALI": [
+    {
+      "address_components": [
+        {
+          "long_name": "2654+XXF",
+          "short_name": "2654+XXF",
+          "types": [
+            "plus_code"
+          ]
+        },
+        {
+          "long_name": "Masaka",
+          "short_name": "Masaka",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "2654+XXF, Kigali, Rwanda",
+      "geometry": {
+        "location": {
+          "lat": -1.9900577,
+          "lng": 30.2074151
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": -1.988708719708498,
+            "lng": 30.20876408029149
+          },
+          "southwest": {
+            "lat": -1.991406680291502,
+            "lng": 30.2060661197085
+          }
+        }
+      },
+      "place_id": "ChIJa-d8fdVZ2xkRPeeLmKxPcVw",
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "school"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Unnamed Road",
+          "short_name": "Unnamed Road",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Masaka",
+          "short_name": "Masaka",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Unnamed Road, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9882788,
+            "lng": 30.20706
+          },
+          "southwest": {
+            "lat": -1.9884473,
+            "lng": 30.2032948
+          }
+        },
+        "location": {
+          "lat": -1.9883842,
+          "lng": 30.2051763
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": -1.987014069708498,
+            "lng": 30.20706
+          },
+          "southwest": {
+            "lat": -1.989712030291501,
+            "lng": 30.2032948
+          }
+        }
+      },
+      "place_id": "ChIJx3rL2ypY2xkRDk-wNmMIQto",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cyimo",
+          "short_name": "Cyimo",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Masaka",
+          "short_name": "Masaka",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cyimo, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9853707,
+            "lng": 30.2173054
+          },
+          "southwest": {
+            "lat": -2.0117583,
+            "lng": 30.1898182
+          }
+        },
+        "location": {
+          "lat": -1.9944916,
+          "lng": 30.1993381
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.9853707,
+            "lng": 30.2173054
+          },
+          "southwest": {
+            "lat": -2.0117583,
+            "lng": 30.1898182
+          }
+        }
+      },
+      "place_id": "ChIJoa_TxQxX2xkRh-7Oy5X91bc",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Masaka",
+          "short_name": "Masaka",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Masaka, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9814784,
+            "lng": 30.2368212
+          },
+          "southwest": {
+            "lat": -2.0800787,
+            "lng": 30.1621915
+          }
+        },
+        "location": {
+          "lat": -2.0159224,
+          "lng": 30.1935663
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.9814784,
+            "lng": 30.2368212
+          },
+          "southwest": {
+            "lat": -2.0800787,
+            "lng": 30.1621915
+          }
+        }
+      },
+      "place_id": "ChIJN9cdUKpX2xkRgSlIAGSBatQ",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kicukiro",
+          "short_name": "Kicukiro",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kicukiro, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.9527428,
+            "lng": 30.2368223
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 30.0484651
+          }
+        },
+        "location": {
+          "lat": -2.0085703,
+          "lng": 30.1358346
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.9527428,
+            "lng": 30.2368223
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 30.0484651
+          }
+        }
+      },
+      "place_id": "ChIJUaP56mmo3BkRqzPnnqZ-zhs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kigali City, Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        },
+        "location": {
+          "lat": -1.9578755,
+          "lng": 30.112735
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        }
+      },
+      "place_id": "ChIJl-fYjiWk3BkRNAgf0zO1-zI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gasabo",
+          "short_name": "Gasabo",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        },
+        "location": {
+          "lat": -1.9440727,
+          "lng": 30.0618851
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.7795613,
+            "lng": 30.2771502
+          },
+          "southwest": {
+            "lat": -2.0799799,
+            "lng": 29.9773387
+          }
+        }
+      },
+      "place_id": "ChIJl-fYjiWk3BkRyAsdQaU2K_M",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.0473752,
+            "lng": 30.8991179
+          },
+          "southwest": {
+            "lat": -2.8399383,
+            "lng": 28.861754
+          }
+        },
+        "location": {
+          "lat": -1.940278,
+          "lng": 29.873888
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.0473752,
+            "lng": 30.8991179
+          },
+          "southwest": {
+            "lat": -2.8399383,
+            "lng": 28.861754
+          }
+        }
+      },
+      "place_id": "ChIJ40A451SWwhkRA6HMyyawkHQ",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "2664+G4",
+          "short_name": "2664+G4",
+          "types": [
+            "plus_code"
+          ]
+        },
+        {
+          "long_name": "Kigali",
+          "short_name": "Kigali",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gasabo",
+          "short_name": "Gasabo",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kigali City",
+          "short_name": "Kigali City",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "2664+G4 Kigali, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.988625,
+            "lng": 30.205375
+          },
+          "southwest": {
+            "lat": -1.98875,
+            "lng": 30.20525
+          }
+        },
+        "location": {
+          "lat": -1.9886341,
+          "lng": 30.2053606
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": -1.987338519708498,
+            "lng": 30.2066614802915
+          },
+          "southwest": {
+            "lat": -1.990036480291502,
+            "lng": 30.2039635197085
+          }
+        }
+      },
+      "place_id": "GhIJxV1z_XHR_78RD-Mkg5I0PkA",
+      "plus_code": {
+        "compound_code": "2664+G4 Kigali, Rwanda",
+        "global_code": "6GCG2664+G4"
+      },
+      "types": [
+        "plus_code"
+      ]
+    }
+  ],
+  "AREA_OUTSIDE_KIGALI": [
+    {
+      "address_components": [
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Huye",
+          "short_name": "Huye",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Huye",
+          "short_name": "Huye",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Southern Province",
+          "short_name": "Southern Province",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "SH 3ST HUYE, Huye, Rwanda",
+      "geometry": {
+        "location": {
+          "lat": -2.5905499,
+          "lng": 29.74126
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": -2.589200919708498,
+            "lng": 29.7426089802915
+          },
+          "southwest": {
+            "lat": -2.591898880291502,
+            "lng": 29.7399110197085
+          }
+        }
+      },
+      "place_id": "ChIJEQXWCKoNwxkR0qu3MYQrMxo",
+      "plus_code": {
+        "compound_code": "CP5R+QG Huye, Rwanda",
+        "global_code": "6G9FCP5R+QG"
+      },
+      "types": [
+        "establishment",
+        "point_of_interest"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "3b",
+          "short_name": "RN6",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Huye",
+          "short_name": "Huye",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Huye",
+          "short_name": "Huye",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Southern Province",
+          "short_name": "Southern Province",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "3b, Huye, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -2.5899696,
+            "lng": 29.7418305
+          },
+          "southwest": {
+            "lat": -2.5906944,
+            "lng": 29.7414877
+          }
+        },
+        "location": {
+          "lat": -2.5903435,
+          "lng": 29.7416361
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": -2.588983019708498,
+            "lng": 29.7430080802915
+          },
+          "southwest": {
+            "lat": -2.591680980291502,
+            "lng": 29.7403101197085
+          }
+        }
+      },
+      "place_id": "ChIJe-nIr1UMwxkRWoTJsGf3oUA",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Huye",
+          "short_name": "Huye",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Huye",
+          "short_name": "Huye",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Southern Province",
+          "short_name": "Southern Province",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Huye, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -2.5679904,
+            "lng": 29.7732943
+          },
+          "southwest": {
+            "lat": -2.6869335,
+            "lng": 29.68295629999999
+          }
+        },
+        "location": {
+          "lat": -2.6005173,
+          "lng": 29.74192009999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -2.5679904,
+            "lng": 29.7732943
+          },
+          "southwest": {
+            "lat": -2.6869335,
+            "lng": 29.68295629999999
+          }
+        }
+      },
+      "place_id": "ChIJl4tMWIcOwxkRR9wL4vz6-3E",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Huye",
+          "short_name": "Huye",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Southern Province",
+          "short_name": "Southern Province",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Huye, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -2.3686188,
+            "lng": 29.846033
+          },
+          "southwest": {
+            "lat": -2.6956623,
+            "lng": 29.5833907
+          }
+        },
+        "location": {
+          "lat": -2.6005096,
+          "lng": 29.7419175
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -2.3686188,
+            "lng": 29.846033
+          },
+          "southwest": {
+            "lat": -2.6956623,
+            "lng": 29.5833907
+          }
+        }
+      },
+      "place_id": "ChIJl6i1bVwOwxkRaSQEn5ELlxo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Southern Province",
+          "short_name": "Southern Province",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Southern Province, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.7311776,
+            "lng": 30.0208101
+          },
+          "southwest": {
+            "lat": -2.8399727,
+            "lng": 29.2646534
+          }
+        },
+        "location": {
+          "lat": -2.5546618,
+          "lng": 29.6035495
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.7311776,
+            "lng": 30.0208101
+          },
+          "southwest": {
+            "lat": -2.8399727,
+            "lng": 29.2646534
+          }
+        }
+      },
+      "place_id": "ChIJGx6PxyW73BkR9BK5YFta4dw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -1.0473752,
+            "lng": 30.8991179
+          },
+          "southwest": {
+            "lat": -2.8399383,
+            "lng": 28.861754
+          }
+        },
+        "location": {
+          "lat": -1.940278,
+          "lng": 29.873888
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -1.0473752,
+            "lng": 30.8991179
+          },
+          "southwest": {
+            "lat": -2.8399383,
+            "lng": 28.861754
+          }
+        }
+      },
+      "place_id": "ChIJ40A451SWwhkRA6HMyyawkHQ",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "CP5R+G3",
+          "short_name": "CP5R+G3",
+          "types": [
+            "plus_code"
+          ]
+        },
+        {
+          "long_name": "Huye",
+          "short_name": "Huye",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Huye",
+          "short_name": "Huye",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Southern Province",
+          "short_name": "Southern Province",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rwanda",
+          "short_name": "RW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "CP5R+G3 Huye, Rwanda",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -2.591125,
+            "lng": 29.74025
+          },
+          "southwest": {
+            "lat": -2.59125,
+            "lng": 29.740125
+          }
+        },
+        "location": {
+          "lat": -2.591177,
+          "lng": 29.7401684
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": -2.589838519708498,
+            "lng": 29.7415364802915
+          },
+          "southwest": {
+            "lat": -2.592536480291502,
+            "lng": 29.7388385197085
+          }
+        }
+      },
+      "place_id": "GhIJ3C3JAbu6BMARXIgfrXu9PUA",
+      "plus_code": {
+        "compound_code": "CP5R+G3 Huye, Rwanda",
+        "global_code": "6G9FCP5R+G3"
+      },
+      "types": [
+        "plus_code"
+      ]
+    }
+  ],
+  "AREA_OUTSIDE_RWANDA": [
+    {
+      "address_components": [
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South-East District",
+          "short_name": "South-East District",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Botswana",
+          "short_name": "BW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Plot 2930, Gaborone, Botswana",
+      "geometry": {
+        "location": {
+          "lat": -24.66026,
+          "lng": 25.9310281
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": -24.65891101970849,
+            "lng": 25.9323770802915
+          },
+          "southwest": {
+            "lat": -24.6616089802915,
+            "lng": 25.9296791197085
+          }
+        }
+      },
+      "place_id": "ChIJB8SkzMFbux4RM8LAjJVjwN0",
+      "plus_code": {
+        "compound_code": "8WQJ+VC Gaborone, Botswana",
+        "global_code": "5G778WQJ+VC"
+      },
+      "types": [
+        "car_rental",
+        "establishment",
+        "point_of_interest"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Old Student Union",
+          "short_name": "Old Student Union",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South-East District",
+          "short_name": "South-East District",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Botswana",
+          "short_name": "BW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Old Student Union, Gaborone, Botswana",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -24.659759,
+            "lng": 25.9311032
+          },
+          "southwest": {
+            "lat": -24.6604295,
+            "lng": 25.9304328
+          }
+        },
+        "location": {
+          "lat": -24.6601173,
+          "lng": 25.930816
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": -24.65874526970849,
+            "lng": 25.9321169802915
+          },
+          "southwest": {
+            "lat": -24.6614432302915,
+            "lng": 25.9294190197085
+          }
+        }
+      },
+      "place_id": "ChIJ49P6npBbux4RVk1Q8GVHNjk",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mobuto Drive",
+          "short_name": "Mobuto Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South-East District",
+          "short_name": "South-East District",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Botswana",
+          "short_name": "BW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mobuto Dr, Gaborone, Botswana",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -24.6593984,
+            "lng": 25.9292422
+          },
+          "southwest": {
+            "lat": -24.6613215,
+            "lng": 25.9292139
+          }
+        },
+        "location": {
+          "lat": -24.66036,
+          "lng": 25.929228
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": -24.6590109697085,
+            "lng": 25.9305770302915
+          },
+          "southwest": {
+            "lat": -24.6617089302915,
+            "lng": 25.9278790697085
+          }
+        }
+      },
+      "place_id": "ChIJSwFqrZBbux4Rdg6r6pXEwiE",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "2884",
+          "short_name": "2884",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Church Road",
+          "short_name": "Church Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Boitshoko Extension 10",
+          "short_name": "Boitshoko Extension 10",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South-East District",
+          "short_name": "South-East District",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Botswana",
+          "short_name": "BW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "2884 Church Rd, Gaborone, Botswana",
+      "geometry": {
+        "location": {
+          "lat": -24.6594001,
+          "lng": 25.9282558
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": -24.6580511197085,
+            "lng": 25.9296047802915
+          },
+          "southwest": {
+            "lat": -24.6607490802915,
+            "lng": 25.9269068197085
+          }
+        }
+      },
+      "place_id": "EiIyODg0IENodXJjaCBSZCwgR2Fib3JvbmUsIEJvdHN3YW5hIhsSGQoUChIJh20f8Zlbux4RJQtvkwqDvugQxBY",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South-East District",
+          "short_name": "South-East District",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Botswana",
+          "short_name": "BW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gaborone, Botswana",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -24.5065762,
+            "lng": 26.0222162
+          },
+          "southwest": {
+            "lat": -24.7120382,
+            "lng": 25.8387927
+          }
+        },
+        "location": {
+          "lat": -24.6282079,
+          "lng": 25.9231471
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -24.5065762,
+            "lng": 26.0222162
+          },
+          "southwest": {
+            "lat": -24.7120382,
+            "lng": 25.8387927
+          }
+        }
+      },
+      "place_id": "ChIJv6nuLDxbux4RoRGul5N2oUk",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South-East District",
+          "short_name": "South-East District",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Botswana",
+          "short_name": "BW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gaborone, Botswana",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -24.4506755,
+            "lng": 26.1375047
+          },
+          "southwest": {
+            "lat": -25.0141027,
+            "lng": 25.601366
+          }
+        },
+        "location": {
+          "lat": -24.6719978,
+          "lng": 25.8048521
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -24.4506755,
+            "lng": 26.1375047
+          },
+          "southwest": {
+            "lat": -25.0141027,
+            "lng": 25.601366
+          }
+        }
+      },
+      "place_id": "ChIJnYO-dGZXux4RDDSdqa_hqrs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South-East District",
+          "short_name": "South-East District",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Botswana",
+          "short_name": "BW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "South-East District, Botswana",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -24.511588,
+            "lng": 26.1838051
+          },
+          "southwest": {
+            "lat": -25.4747092,
+            "lng": 25.5438541
+          }
+        },
+        "location": {
+          "lat": -24.9366094,
+          "lng": 25.8048521
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -24.511588,
+            "lng": 26.1838051
+          },
+          "southwest": {
+            "lat": -25.4747092,
+            "lng": 25.5438541
+          }
+        }
+      },
+      "place_id": "ChIJ7XSANqhbux4RRO7r8Zlx3UE",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Botswana",
+          "short_name": "BW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Botswana",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -17.7781369,
+            "lng": 29.375304
+          },
+          "southwest": {
+            "lat": -26.9075448,
+            "lng": 19.998903
+          }
+        },
+        "location": {
+          "lat": -22.328474,
+          "lng": 24.684866
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": -17.7781369,
+            "lng": 29.375304
+          },
+          "southwest": {
+            "lat": -26.9075448,
+            "lng": 19.998903
+          }
+        }
+      },
+      "place_id": "ChIJESJF0SFDpB4Re68Vhyp8ZPE",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "8WQJ+V8",
+          "short_name": "8WQJ+V8",
+          "types": [
+            "plus_code"
+          ]
+        },
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gaborone",
+          "short_name": "Gaborone",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South-East District",
+          "short_name": "South-East District",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Botswana",
+          "short_name": "BW",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "8WQJ+V8 Gaborone, Botswana",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": -24.66025,
+            "lng": 25.930875
+          },
+          "southwest": {
+            "lat": -24.660375,
+            "lng": 25.93075
+          }
+        },
+        "location": {
+          "lat": -24.6603033,
+          "lng": 25.9308724
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": -24.6589635197085,
+            "lng": 25.93216148029151
+          },
+          "southwest": {
+            "lat": -24.6616614802915,
+            "lng": 25.9294635197085
+          }
+        }
+      },
+      "place_id": "GhIJ3fAWowmpOMARwL9Sp03uOUA",
+      "plus_code": {
+        "compound_code": "8WQJ+V8 Gaborone, Botswana",
+        "global_code": "5G778WQJ+V8"
+      },
+      "types": [
+        "plus_code"
+      ]
+    }
+  ]
+}

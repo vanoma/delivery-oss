@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+  api:
+    build: .
+    volumes:
+      - .:/code
+    environment:
+      - ENVIRONMENT=development
+      - DATABASE_URL=<FILL_IN_VALUE>
+      - SECRET_KEY=<FILL_IN_VALUE>
+      - AWS_ACCESS_KEY_ID=<FILL_IN_VALUE>
+      - AWS_SECRET_ACCESS_KEY=<FILL_IN_VALUE>
+      - AWS_STORAGE_BUCKET_NAME=<FILL_IN_VALUE>
+      - GOOGLE_MAPS_API_KEY=<FILL_IN_VALUE>
+      - VANOMA_AUTH_API_URL=<FILL_IN_VALUE>
+      - VANOMA_ORDER_API_URL=<FILL_IN_VALUE>
+      - VANOMA_COMMUNICATION_API_URL=<FILL_IN_VALUE>
+    command: gunicorn --reload --bind 0.0.0.0:8000 delivery_api.wsgi:application
+    container_name: delivery-api
+
+networks:
+  default:
+    external:
+      name: vanoma-apis

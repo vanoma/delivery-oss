@@ -1,0 +1,26 @@
+{
+  "destination_addresses": ["327V+RRP, Kigali, Rwanda"],
+  "origin_addresses": ["112 KG 684 St, Kigali, Rwanda"],
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "4.0 km",
+            "value": 3970
+          },
+          "duration": {
+            "text": "11 mins",
+            "value": 663
+          },
+          "duration_in_traffic": {
+            "text": "11 mins",
+            "value": 631
+          },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "delivery-api"
+version = "0.1.0"
+description = "Vanoma Driver API"
+authors = ["Vanoma <contact@vanoma.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+django-cors-headers = "^3.10.0"
+djangorestframework-simplejwt = "^5.0.0"
+djangorestframework-camel-case = "^1.2.0"
+mysqlclient="^2.1.0"
+python-dateutil = "^2.8.2"
+vanoma-api-utils = "^0.37.0"
+requests = "^2.26.0"
+gunicorn = "^20.1.0"
+django-storages = "^1.12.3"
+drf-extra-fields = "^3.4.0"
+boto3 = "^1.21.15"
+mutagen = "^1.45.1"
+googlemaps = "^4.6.0"
+huey = "^2.4.3"
+gevent = "^21.12.0"
+
+[tool.poetry.dev-dependencies]
+black = "==21.11b1"
+pre-commit = "~=2.15.0"
+requests-mock = "^1.9.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

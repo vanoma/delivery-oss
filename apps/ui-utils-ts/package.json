@@ -1,0 +1,20 @@
+{
+  "name": "@vanoma/types",
+  "version": "1.0.147",
+  "description": "Vanoma Types",
+  "source": "src/index.ts",
+  "main": "dist/main.js",
+  "types": "dist/types.d.ts",
+  "repository": "<FILL_IN_VALUE>",
+  "author": "<FILL_IN_VALUE>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "rm -rf dist && parcel build"
+  },
+  "peerDependencies": {
+    "@mui/material": "^5.0.4"
+  }
+}

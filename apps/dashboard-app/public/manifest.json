@@ -1,0 +1,46 @@
+{
+    "name": "Vanoma",
+    "short_name": "Vanoma",
+    "description": "On-demand package delivery service for businesses in Kigali, Rwanda.",
+    "dir": "auto",
+    "lang": "en-US",
+    "display": "standalone",
+    "orientation": "any",
+    "start_url": "/?source=pwa",
+    "background_color": "#0c0004",
+    "theme_color": "#0c0004",
+    "icons": [
+        {
+            "src": "favicon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshots/screenshot1.png",
+            "type": "image/png",
+            "sizes": "1068x2051"
+        },
+        {
+            "src": "screenshots/screenshot2.png",
+            "type": "image/png",
+            "sizes": "1080x2026"
+        },
+        {
+            "src": "screenshots/screenshot3.png",
+            "type": "image/png",
+            "sizes": "1080x2028"
+        },
+        {
+            "src": "screenshots/screenshot4.png",
+            "type": "image/png",
+            "sizes": "1080x2030"
+        }
+    ]
+}
