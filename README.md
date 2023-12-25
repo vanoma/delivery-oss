@@ -1,2 +1,2 @@
 # delivery-oss
-Open source codebase for last-delivery
+Open source codebase for last-mile delivery.
